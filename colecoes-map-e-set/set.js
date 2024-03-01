@@ -1,7 +1,7 @@
 /*             EXECICIO DE SET
 Dado o array [30, 30, 40, 5, 223, 2049, 3034, 5], retorne outro array apenas com valores únicos.
 
-*/
+
 
 const meuArray = [30, 30, 40, 5, 223, 2049, 3034, 5];
 
@@ -12,8 +12,8 @@ function valoresUnicos(arr){  //arr = array
 }
 
 console.log(valoresUnicos(meuArray));
+*/
 
-/*
 const meuArray = [30, 30, 40, 5, 223, 2049, 3034, 5];
 
 function valoresUnicos(arr){
@@ -22,4 +22,4 @@ function valoresUnicos(arr){
     return Array.from(mySet)
 }
 console.log(valoresUnicos(meuArray));
-*/
+
