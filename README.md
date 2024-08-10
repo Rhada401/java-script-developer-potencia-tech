@@ -24,7 +24,7 @@ Bem-vindo ao repositório do **Basecamp JavaScript**! Aqui foi onde eu coloquei 
 
 1. **To-Do List** 📝
     - Uma aplicação para gerenciar tarefas diárias, com funcionalidades de adicionar, remover e marcar como concluído.
-    - [Código](link-para-o-projeto)
+    - (link-para-o-projeto)[https://github.com/Rhada401/java-script-developer-potencia-tech/tree/main/to-do-list]
 
 2. **🚗 Cálculo do Custo de Viagem** 🧮
     - Este programa foi desenvolvido para calcular o valor total que será gasto em uma viagem com base em três variáveis principais:
